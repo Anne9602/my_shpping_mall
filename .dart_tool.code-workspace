@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".dart_tool"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "test"
+		}
+	]
+}
